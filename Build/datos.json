@@ -1,0 +1,1162 @@
+[
+    {
+        "name": {
+            "common": "Mexico",
+            "official": "United Mexican States",
+            "nativeName": {
+                "spa": {
+                    "official": "Estados Unidos Mexicanos",
+                    "common": "M\u00e9xico"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 1964375.0,
+        "population": 128932753
+    },
+    {
+        "name": {
+            "common": "United States Virgin Islands",
+            "official": "Virgin Islands of the United States",
+            "nativeName": {
+                "eng": {
+                    "official": "Virgin Islands of the United States",
+                    "common": "United States Virgin Islands"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 347.0,
+        "population": 106290
+    },
+    {
+        "name": {
+            "common": "Haiti",
+            "official": "Republic of Haiti",
+            "nativeName": {
+                "fra": {
+                    "official": "R\u00e9publique d'Ha\u00efti",
+                    "common": "Ha\u00efti"
+                },
+                "hat": {
+                    "official": "Repiblik Ayiti",
+                    "common": "Ayiti"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "fra": "French",
+            "hat": "Haitian Creole"
+        },
+        "area": 27750.0,
+        "population": 11402533
+    },
+    {
+        "name": {
+            "common": "Belize",
+            "official": "Belize",
+            "nativeName": {
+                "bjz": {
+                    "official": "Belize",
+                    "common": "Belize"
+                },
+                "eng": {
+                    "official": "Belize",
+                    "common": "Belize"
+                },
+                "spa": {
+                    "official": "Belice",
+                    "common": "Belice"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "bjz": "Belizean Creole",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "area": 22966.0,
+        "population": 397621
+    },
+    {
+        "name": {
+            "common": "Sint Maarten",
+            "official": "Sint Maarten",
+            "nativeName": {
+                "eng": {
+                    "official": "Sint Maarten",
+                    "common": "Sint Maarten"
+                },
+                "fra": {
+                    "official": "Saint-Martin",
+                    "common": "Saint-Martin"
+                },
+                "nld": {
+                    "official": "Sint Maarten",
+                    "common": "Sint Maarten"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nld": "Dutch"
+        },
+        "area": 34.0,
+        "population": 40812
+    },
+    {
+        "name": {
+            "common": "French Guiana",
+            "official": "Guiana",
+            "nativeName": {
+                "fra": {
+                    "official": "Guyane",
+                    "common": "Guyane fran\u00e7aise"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "fra": "French"
+        },
+        "area": 83534.0,
+        "population": 254541
+    },
+    {
+        "name": {
+            "common": "Cuba",
+            "official": "Republic of Cuba",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Cuba",
+                    "common": "Cuba"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 109884.0,
+        "population": 11326616
+    },
+    {
+        "name": {
+            "common": "Martinique",
+            "official": "Martinique",
+            "nativeName": {
+                "fra": {
+                    "official": "Martinique",
+                    "common": "Martinique"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "fra": "French"
+        },
+        "area": 1128.0,
+        "population": 378243
+    },
+    {
+        "name": {
+            "common": "Antigua and Barbuda",
+            "official": "Antigua and Barbuda",
+            "nativeName": {
+                "eng": {
+                    "official": "Antigua and Barbuda",
+                    "common": "Antigua and Barbuda"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 442.0,
+        "population": 97928
+    },
+    {
+        "name": {
+            "common": "Peru",
+            "official": "Republic of Peru",
+            "nativeName": {
+                "aym": {
+                    "official": "Piruw Suyu",
+                    "common": "Piruw"
+                },
+                "que": {
+                    "official": "Piruw Ripuwlika",
+                    "common": "Piruw"
+                },
+                "spa": {
+                    "official": "Rep\u00fablica del Per\u00fa",
+                    "common": "Per\u00fa"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "aym": "Aymara",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "area": 1285216.0,
+        "population": 32971846
+    },
+    {
+        "name": {
+            "common": "Bermuda",
+            "official": "Bermuda",
+            "nativeName": {
+                "eng": {
+                    "official": "Bermuda",
+                    "common": "Bermuda"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 54.0,
+        "population": 63903
+    },
+    {
+        "name": {
+            "common": "Guadeloupe",
+            "official": "Guadeloupe",
+            "nativeName": {
+                "fra": {
+                    "official": "Guadeloupe",
+                    "common": "Guadeloupe"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "fra": "French"
+        },
+        "area": 1628.0,
+        "population": 400132
+    },
+    {
+        "name": {
+            "common": "United States",
+            "official": "United States of America",
+            "nativeName": {
+                "eng": {
+                    "official": "United States of America",
+                    "common": "United States"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 9372610.0,
+        "population": 329484123
+    },
+    {
+        "name": {
+            "common": "Argentina",
+            "official": "Argentine Republic",
+            "nativeName": {
+                "grn": {
+                    "official": "Argentine Republic",
+                    "common": "Argentina"
+                },
+                "spa": {
+                    "official": "Rep\u00fablica Argentina",
+                    "common": "Argentina"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "grn": "Guaran\u00ed",
+            "spa": "Spanish"
+        },
+        "area": 2780400.0,
+        "population": 45376763
+    },
+    {
+        "name": {
+            "common": "Puerto Rico",
+            "official": "Commonwealth of Puerto Rico",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of Puerto Rico",
+                    "common": "Puerto Rico"
+                },
+                "spa": {
+                    "official": "Estado Libre Asociado de Puerto Rico",
+                    "common": "Puerto Rico"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "area": 8870.0,
+        "population": 3194034
+    },
+    {
+        "name": {
+            "common": "Turks and Caicos Islands",
+            "official": "Turks and Caicos Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Turks and Caicos Islands",
+                    "common": "Turks and Caicos Islands"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 948.0,
+        "population": 38718
+    },
+    {
+        "name": {
+            "common": "Paraguay",
+            "official": "Republic of Paraguay",
+            "nativeName": {
+                "grn": {
+                    "official": "Tet\u00e3 Paragu\u00e1i",
+                    "common": "Paragu\u00e1i"
+                },
+                "spa": {
+                    "official": "Rep\u00fablica de Paraguay",
+                    "common": "Paraguay"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "grn": "Guaran\u00ed",
+            "spa": "Spanish"
+        },
+        "area": 406752.0,
+        "population": 7132530
+    },
+    {
+        "name": {
+            "common": "Chile",
+            "official": "Republic of Chile",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Chile",
+                    "common": "Chile"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 756102.0,
+        "population": 19116209
+    },
+    {
+        "name": {
+            "common": "Saint Kitts and Nevis",
+            "official": "Federation of Saint Christopher and Nevis",
+            "nativeName": {
+                "eng": {
+                    "official": "Federation of Saint Christopher and Nevis",
+                    "common": "Saint Kitts and Nevis"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 261.0,
+        "population": 53192
+    },
+    {
+        "name": {
+            "common": "United States Minor Outlying Islands",
+            "official": "United States Minor Outlying Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "United States Minor Outlying Islands",
+                    "common": "United States Minor Outlying Islands"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 34.2,
+        "population": 300
+    },
+    {
+        "name": {
+            "common": "Anguilla",
+            "official": "Anguilla",
+            "nativeName": {
+                "eng": {
+                    "official": "Anguilla",
+                    "common": "Anguilla"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 91.0,
+        "population": 13452
+    },
+    {
+        "name": {
+            "common": "Bolivia",
+            "official": "Plurinational State of Bolivia",
+            "nativeName": {
+                "aym": {
+                    "official": "Wuliwya Suyu",
+                    "common": "Wuliwya"
+                },
+                "grn": {
+                    "official": "Tet\u00e3 Vol\u00edvia",
+                    "common": "Vol\u00edvia"
+                },
+                "que": {
+                    "official": "Buliwya Mamallaqta",
+                    "common": "Buliwya"
+                },
+                "spa": {
+                    "official": "Estado Plurinacional de Bolivia",
+                    "common": "Bolivia"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "aym": "Aymara",
+            "grn": "Guaran\u00ed",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "area": 1098581.0,
+        "population": 11673029
+    },
+    {
+        "name": {
+            "common": "Greenland",
+            "official": "Greenland",
+            "nativeName": {
+                "kal": {
+                    "official": "Kalaallit Nunaat",
+                    "common": "Kalaallit Nunaat"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "kal": "Greenlandic"
+        },
+        "area": 2166086.0,
+        "population": 56367
+    },
+    {
+        "name": {
+            "common": "Saint Martin",
+            "official": "Saint Martin",
+            "nativeName": {
+                "fra": {
+                    "official": "Saint-Martin",
+                    "common": "Saint-Martin"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "fra": "French"
+        },
+        "area": 53.0,
+        "population": 38659
+    },
+    {
+        "name": {
+            "common": "Panama",
+            "official": "Republic of Panama",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Panam\u00e1",
+                    "common": "Panam\u00e1"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 75417.0,
+        "population": 4314768
+    },
+    {
+        "name": {
+            "common": "Uruguay",
+            "official": "Oriental Republic of Uruguay",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica Oriental del Uruguay",
+                    "common": "Uruguay"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 181034.0,
+        "population": 3473727
+    },
+    {
+        "name": {
+            "common": "Aruba",
+            "official": "Aruba",
+            "nativeName": {
+                "nld": {
+                    "official": "Aruba",
+                    "common": "Aruba"
+                },
+                "pap": {
+                    "official": "Aruba",
+                    "common": "Aruba"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "area": 180.0,
+        "population": 106766
+    },
+    {
+        "name": {
+            "common": "Montserrat",
+            "official": "Montserrat",
+            "nativeName": {
+                "eng": {
+                    "official": "Montserrat",
+                    "common": "Montserrat"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 102.0,
+        "population": 4922
+    },
+    {
+        "name": {
+            "common": "Trinidad and Tobago",
+            "official": "Republic of Trinidad and Tobago",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Trinidad and Tobago",
+                    "common": "Trinidad and Tobago"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 5130.0,
+        "population": 1399491
+    },
+    {
+        "name": {
+            "common": "Saint Barth\u00e9lemy",
+            "official": "Collectivity of Saint Barth\u00e9lemy",
+            "nativeName": {
+                "fra": {
+                    "official": "Collectivit\u00e9 de Saint-Barth\u00e9lemy",
+                    "common": "Saint-Barth\u00e9lemy"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "fra": "French"
+        },
+        "area": 21.0,
+        "population": 4255
+    },
+    {
+        "name": {
+            "common": "Ecuador",
+            "official": "Republic of Ecuador",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica del Ecuador",
+                    "common": "Ecuador"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 276841.0,
+        "population": 17643060
+    },
+    {
+        "name": {
+            "common": "Saint Vincent and the Grenadines",
+            "official": "Saint Vincent and the Grenadines",
+            "nativeName": {
+                "eng": {
+                    "official": "Saint Vincent and the Grenadines",
+                    "common": "Saint Vincent and the Grenadines"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 389.0,
+        "population": 110947
+    },
+    {
+        "name": {
+            "common": "Caribbean Netherlands",
+            "official": "Bonaire, Sint Eustatius and Saba",
+            "nativeName": {
+                "nld": {
+                    "official": "Bonaire, Sint Eustatius en Saba",
+                    "common": "Caribisch Nederland"
+                },
+                "pap": {
+                    "official": "Boneiru, Sint Eustatius y Saba",
+                    "common": "Boneiru, Sint Eustatius y Saba"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English",
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "area": 328.0,
+        "population": 25987
+    },
+    {
+        "name": {
+            "common": "Falkland Islands",
+            "official": "Falkland Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Falkland Islands",
+                    "common": "Falkland Islands"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 12173.0,
+        "population": 2563
+    },
+    {
+        "name": {
+            "common": "Barbados",
+            "official": "Barbados",
+            "nativeName": {
+                "eng": {
+                    "official": "Barbados",
+                    "common": "Barbados"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 430.0,
+        "population": 287371
+    },
+    {
+        "name": {
+            "common": "British Virgin Islands",
+            "official": "Virgin Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Virgin Islands",
+                    "common": "British Virgin Islands"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 151.0,
+        "population": 30237
+    },
+    {
+        "name": {
+            "common": "Dominican Republic",
+            "official": "Dominican Republic",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica Dominicana",
+                    "common": "Rep\u00fablica Dominicana"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 48671.0,
+        "population": 10847904
+    },
+    {
+        "name": {
+            "common": "Costa Rica",
+            "official": "Republic of Costa Rica",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Costa Rica",
+                    "common": "Costa Rica"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 51100.0,
+        "population": 5094114
+    },
+    {
+        "name": {
+            "common": "Guatemala",
+            "official": "Republic of Guatemala",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Guatemala",
+                    "common": "Guatemala"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 108889.0,
+        "population": 16858333
+    },
+    {
+        "name": {
+            "common": "Suriname",
+            "official": "Republic of Suriname",
+            "nativeName": {
+                "nld": {
+                    "official": "Republiek Suriname",
+                    "common": "Suriname"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "nld": "Dutch"
+        },
+        "area": 163820.0,
+        "population": 586634
+    },
+    {
+        "name": {
+            "common": "Venezuela",
+            "official": "Bolivarian Republic of Venezuela",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica Bolivariana de Venezuela",
+                    "common": "Venezuela"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 916445.0,
+        "population": 28435943
+    },
+    {
+        "name": {
+            "common": "Dominica",
+            "official": "Commonwealth of Dominica",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of Dominica",
+                    "common": "Dominica"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 751.0,
+        "population": 71991
+    },
+    {
+        "name": {
+            "common": "Colombia",
+            "official": "Republic of Colombia",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Colombia",
+                    "common": "Colombia"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 1141748.0,
+        "population": 50882884
+    },
+    {
+        "name": {
+            "common": "Grenada",
+            "official": "Grenada",
+            "nativeName": {
+                "eng": {
+                    "official": "Grenada",
+                    "common": "Grenada"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 344.0,
+        "population": 112519
+    },
+    {
+        "name": {
+            "common": "Canada",
+            "official": "Canada",
+            "nativeName": {
+                "eng": {
+                    "official": "Canada",
+                    "common": "Canada"
+                },
+                "fra": {
+                    "official": "Canada",
+                    "common": "Canada"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English",
+            "fra": "French"
+        },
+        "area": 9984670.0,
+        "population": 38005238
+    },
+    {
+        "name": {
+            "common": "Jamaica",
+            "official": "Jamaica",
+            "nativeName": {
+                "eng": {
+                    "official": "Jamaica",
+                    "common": "Jamaica"
+                },
+                "jam": {
+                    "official": "Jamaica",
+                    "common": "Jamaica"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English",
+            "jam": "Jamaican Patois"
+        },
+        "area": 10991.0,
+        "population": 2961161
+    },
+    {
+        "name": {
+            "common": "Saint Pierre and Miquelon",
+            "official": "Saint Pierre and Miquelon",
+            "nativeName": {
+                "fra": {
+                    "official": "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon",
+                    "common": "Saint-Pierre-et-Miquelon"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "fra": "French"
+        },
+        "area": 242.0,
+        "population": 6069
+    },
+    {
+        "name": {
+            "common": "Bahamas",
+            "official": "Commonwealth of the Bahamas",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of the Bahamas",
+                    "common": "Bahamas"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 13943.0,
+        "population": 393248
+    },
+    {
+        "name": {
+            "common": "El Salvador",
+            "official": "Republic of El Salvador",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de El Salvador",
+                    "common": "El Salvador"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 21041.0,
+        "population": 6486201
+    },
+    {
+        "name": {
+            "common": "Brazil",
+            "official": "Federative Republic of Brazil",
+            "nativeName": {
+                "por": {
+                    "official": "Rep\u00fablica Federativa do Brasil",
+                    "common": "Brasil"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "por": "Portuguese"
+        },
+        "area": 8515767.0,
+        "population": 212559409
+    },
+    {
+        "name": {
+            "common": "Cura\u00e7ao",
+            "official": "Country of Cura\u00e7ao",
+            "nativeName": {
+                "eng": {
+                    "official": "Country of Cura\u00e7ao",
+                    "common": "Cura\u00e7ao"
+                },
+                "nld": {
+                    "official": "Land Cura\u00e7ao",
+                    "common": "Cura\u00e7ao"
+                },
+                "pap": {
+                    "official": "Pais K\u00f2rsou",
+                    "common": "Pais K\u00f2rsou"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English",
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "area": 444.0,
+        "population": 155014
+    },
+    {
+        "name": {
+            "common": "Honduras",
+            "official": "Republic of Honduras",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Honduras",
+                    "common": "Honduras"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 112492.0,
+        "population": 9904608
+    },
+    {
+        "name": {
+            "common": "Nicaragua",
+            "official": "Republic of Nicaragua",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Nicaragua",
+                    "common": "Nicaragua"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "spa": "Spanish"
+        },
+        "area": 130373.0,
+        "population": 6624554
+    },
+    {
+        "name": {
+            "common": "Cayman Islands",
+            "official": "Cayman Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Cayman Islands",
+                    "common": "Cayman Islands"
+                }
+            }
+        },
+        "independent": false,
+        "unMember": false,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 264.0,
+        "population": 65720
+    },
+    {
+        "name": {
+            "common": "Guyana",
+            "official": "Co-operative Republic of Guyana",
+            "nativeName": {
+                "eng": {
+                    "official": "Co-operative Republic of Guyana",
+                    "common": "Guyana"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 214969.0,
+        "population": 786559
+    },
+    {
+        "name": {
+            "common": "Saint Lucia",
+            "official": "Saint Lucia",
+            "nativeName": {
+                "eng": {
+                    "official": "Saint Lucia",
+                    "common": "Saint Lucia"
+                }
+            }
+        },
+        "independent": true,
+        "unMember": true,
+        "languages": {
+            "eng": "English"
+        },
+        "area": 616.0,
+        "population": 183629
+    }
+]
