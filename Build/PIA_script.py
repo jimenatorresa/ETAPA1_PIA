@@ -1,1 +1,1 @@
-print("Menú")
+import modulo
